@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gh-page-example/static/css/main.95d2dab6.css",
-    "main.js": "/gh-page-example/static/js/main.95d8ec27.js",
+    "main.js": "/gh-page-example/static/js/main.62344af1.js",
     "static/js/453.5e560239.chunk.js": "/gh-page-example/static/js/453.5e560239.chunk.js",
     "static/media/Mask-Group.svg": "/gh-page-example/static/media/Mask-Group.c8f708c4a4bb9ad5a2aa12045c1f5c73.svg",
     "static/media/girl-img.svg": "/gh-page-example/static/media/girl-img.2112a26f0faba5d8769c787ebe4c5157.svg",
@@ -33,11 +33,11 @@
     "static/media/avatar-img.svg": "/gh-page-example/static/media/avatar-img.819cf51a1d17f16fca186e90066c4681.svg",
     "static/media/Group 541.svg": "/gh-page-example/static/media/Group 541.5c0c9cde73ca07e0281bd4788416a198.svg",
     "main.95d2dab6.css.map": "/gh-page-example/static/css/main.95d2dab6.css.map",
-    "main.95d8ec27.js.map": "/gh-page-example/static/js/main.95d8ec27.js.map",
+    "main.62344af1.js.map": "/gh-page-example/static/js/main.62344af1.js.map",
     "453.5e560239.chunk.js.map": "/gh-page-example/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95d2dab6.css",
-    "static/js/main.95d8ec27.js"
+    "static/js/main.62344af1.js"
   ]
 }
